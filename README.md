@@ -1,3 +1,8 @@
+Set up privy
+setup shadcn
+
+
+
 # Privy Auth `create-next-app` Starter
 
 This is a template for integrating [**Privy Auth**](https://www.privy.io/) into a [NextJS](https://nextjs.org/) project. Check out the deployed app [here](https://create-next-app.privy.io/)!
